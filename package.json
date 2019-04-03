@@ -1,0 +1,11 @@
+{
+	"displayName": "Castle Core",
+	"name": "nuget.castle-core",
+	"version": "0.1.5-preview",
+	"unity": "2018.3",
+	"description": "Castle core libray from the Castle Project. https://www.nuget.org/packages/Castle.Core/",
+	"keywords": ["castle core"],
+	"category": "Libraries",
+	"dependencies": {
+	}
+}
