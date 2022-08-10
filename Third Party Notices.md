@@ -1,4 +1,11 @@
-Copyright 2004-2016 Castle Project - http://www.castleproject.org/
+This package contains third-party software components governed by the license(s) indicated below:
+---------
+
+Component Name: Castle.Core
+
+License Type: Apache-2.0
+
+Copyright 2004-2021 Castle Project - http://www.castleproject.org/
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
