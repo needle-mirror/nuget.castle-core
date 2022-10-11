@@ -8,6 +8,6 @@ Documentation for this Package is provided as links to the Castle.Core Documenta
 
 ### Documentation
 
-[Castle.Core Main Page](http://www.castleproject.org/)
-[Castle.Core Documentation](https://github.com/castleproject/Core/blob/master/docs/README.md)
-[Castle.Core Source Code](https://github.com/castleproject/Core)
+* [Castle.Core Main Page](http://www.castleproject.org/)
+* [Castle.Core Documentation](https://github.com/castleproject/Core/blob/master/docs/README.md)
+* [Castle.Core Source Code](https://github.com/castleproject/Core)

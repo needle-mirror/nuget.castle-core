@@ -2,7 +2,7 @@
   "name": "nuget.castle-core",
   "displayName": "Castle Core",
   "author": "Unity",
-  "version": "2.0.0-exp.2",
+  "version": "2.0.0-pre.3",
   "unity": "2020.3",
   "description": "Castle.Core for use in Unity projects and Unity packages. Currently synced to version 5.1.0.",
   "keywords": [
@@ -12,14 +12,14 @@
   ],
   "type": "library",
   "relatedPackages": {
-    "nuget.castle-core.tests": "2.0.0-exp.2"
+    "nuget.castle-core.tests": "2.0.0-pre.3"
   },
   "upmCi": {
-    "footprint": "a3986202d4610152e0db9d48a63e937fcfe2be77"
+    "footprint": "db9e88b6eb9a40a8400356fb22367c0cca29a491"
   },
   "repository": {
-    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.nuget.moq.git",
+    "url": "https://github.cds.internal.unity3d.com/unity/nuget.moq.git",
     "type": "git",
-    "revision": "d1e08cc772d613307d137f7a9088a6e08fddc630"
+    "revision": "55a121551a1e92e03734ad73052ef89ee8f1032c"
   }
 }
