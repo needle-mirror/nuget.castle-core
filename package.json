@@ -4,7 +4,7 @@
   "author": {
     "name": "Unity"
   },
-  "version": "2.0.0-pre.4",
+  "version": "2.0.0",
   "unity": "2020.3",
   "description": "Castle.Core for use in Unity projects and Unity packages. Currently synced to version 5.1.0.",
   "keywords": [
@@ -14,17 +14,17 @@
   ],
   "type": "library",
   "relatedPackages": {
-    "nuget.castle-core.tests": "2.0.0-pre.4"
+    "nuget.castle-core.tests": "2.0.0"
   },
   "_upm": {
-    "changelog": "- Added documentation on how to reference the included DLLs."
+    "changelog": "- Upgraded Castle.Core to version 5.1.0 (`System.Diagnostics.EventLog.dll` is now included as a dependency).\n- Added package documentation.\n- Minimum supported Editor version is now 2020.3."
   },
   "upmCi": {
-    "footprint": "7eed0d681148795027328cb60449ea37691d295e"
+    "footprint": "954ab4d413315a08e0b02310240deff0c8508947"
   },
   "repository": {
     "url": "https://github.cds.internal.unity3d.com/unity/nuget.moq.git",
     "type": "git",
-    "revision": "44f984924f0a3002a70f2086e9ff3910a7eed026"
+    "revision": "801d9cfab9a622c69ba0c41f26752a9812ab5dc2"
   }
 }
